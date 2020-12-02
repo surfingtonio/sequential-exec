@@ -1,0 +1,11 @@
+{
+  "name": "sequential-exec",
+  "version": "1.0.0",
+  "description": "Executes commands sequentially.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Marc Danting <marc@danting.ca>",
+  "license": "ISC"
+}
